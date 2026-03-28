@@ -17,16 +17,15 @@ A modern, real-time shipping tracking application for merchants built with Flutt
 ## 📱 Screenshots
 
 
-<img width="108" height="240" alt="Screenshot_1774683753" src="https://github.com/user-attachments/assets/0d83fd46-5dae-4fe9-b4a7-cc7675985292" />
-<img width="108" height="240" alt="Screenshot_1774683744" src="https://github.com/user-attachments/assets/fd141842-2f12-445d-b1fe-47c4997cd176" />
-<img width="108" height="240" alt="Screenshot_1774683903" src="https://github.com/user-attachments/assets/130ac2e4-9ab5-42c3-bc20-abd35af02998" />
-<img width="108" height="240" alt="Screenshot_1774683856" src="https://github.com/user-attachments/assets/e29423db-c8ad-46a1-8793-4a3b43ba5842" />
-<img width="108" height="240" alt="Screenshot_1774683844" src="https://github.com/user-attachments/assets/049a5805-b3db-4a75-8d1b-ee4ba3f7fb76" />
-<img width="108" height="240" alt="Screenshot_1774683839" src="https://github.com/user-attachments/assets/1d83cab0-1a18-43c6-ae6e-5dfbd533b9f6" />
-<img width="108" height="240" alt="Screenshot_1774683787" src="https://github.com/user-attachments/assets/cdff926d-9567-44af-b221-95c78e378ee1" />
-<img width="108" height="240" alt="Screenshot_1774683760" src="https://github.com/user-attachments/assets/2cec03e4-f829-4ffb-a1d0-2d84ae405f0f" />
-<img width="108" height="240" alt="Screenshot_1774683757" src="https://github.com/user-attachments/assets/d7f41e24-606d-4e50-95af-0e18781c0431" />
-
+<img width="108" height="240" alt="Screenshot_1774683903" src="https://github.com/user-attachments/assets/d361323f-5ba2-4a88-b7f5-032f892d1dc0" />
+<img width="108" height="240" alt="Screenshot_1774683856" src="https://github.com/user-attachments/assets/e4b8fc59-9875-4283-b41e-15f26a231856" />
+<img width="108" height="240" alt="Screenshot_1774683844" src="https://github.com/user-attachments/assets/01469f7a-0bb9-43bc-8009-9f93677ae46e" />
+<img width="108" height="240" alt="Screenshot_1774683839" src="https://github.com/user-attachments/assets/e46d45cd-2774-4104-8cec-f2fd481ba4a7" />
+<img width="108" height="240" alt="Screenshot_1774683787" src="https://github.com/user-attachments/assets/dd04f50d-d54f-4c39-877d-9f831629c2eb" />
+<img width="108" height="240" alt="Screenshot_1774683760" src="https://github.com/user-attachments/assets/971a29cb-74aa-4acd-8a2e-71f2a4c8183d" />
+<img width="108" height="240" alt="Screenshot_1774683757" src="https://github.com/user-attachments/assets/7028a3e6-8bcd-4beb-9682-2bf88ddad1c5" />
+<img width="108" height="240" alt="Screenshot_1774683753" src="https://github.com/user-attachments/assets/d160076c-9714-4928-b9c6-a942d42fea51" />
+<img width="108" height="240" alt="Screenshot_1774683744" src="https://github.com/user-attachments/assets/6c63be54-fbc5-4212-b4dd-646b255221aa" />
 
 
 ## 🏗️ Architecture
